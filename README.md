@@ -17,3 +17,19 @@ Move the Ball: The ball is initially placed in the center of the screen. The pla
 Catch Me If You Can: The ball is initially placed in a random position on the screen. The ball moves randomly around the screen, changing direction every few seconds. The player can catch the ball by clicking on it. If the player catches the ball, they score a point. If the ball disappears before the player catches it, the player loses a point.
 
 5 Digit Up Counter: The user enters a number from 1 to 99999 in the text field. A timer is then started, and the number on the screen counts up to the entered number. Once the number reaches the entered number, the timer stops. The user can reset the timer by clicking on the reset button.
+
+
+
+
+
+
+
+https://github.com/anany057/Mini-Projects/assets/112336313/1297ae9e-18ef-4da8-8e32-75480a2610c7
+
+
+
+
+https://github.com/anany057/Mini-Projects/assets/112336313/fa008eac-23a2-4d8a-9983-ba8473bed0ae
+
+
+
