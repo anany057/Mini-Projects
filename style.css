@@ -81,7 +81,7 @@ overflow: none;
 
 
 #ball{
- background-image: url("image/ball.jpeg");
+ background-image: url(image/ball.jpeg);
  background-size: cover;
  background-position: center;
     height:1rem;
